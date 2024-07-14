@@ -1,0 +1,371 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\Food Ordering Website\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{081DA926-BC91-453F-8E94-F1A04CE4837A}|Food_Ordering_Project\\Food_Ordering_Project.csproj|d:\\project\\food ordering website\\food_ordering_project\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{081DA926-BC91-453F-8E94-F1A04CE4837A}|Food_Ordering_Project\\Food_Ordering_Project.csproj|solutionrelative:food_ordering_project\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{081DA926-BC91-453F-8E94-F1A04CE4837A}|Food_Ordering_Project\\Food_Ordering_Project.csproj|D:\\Project\\Food Ordering Website\\food_ordering_project\\user\\payment.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{081DA926-BC91-453F-8E94-F1A04CE4837A}|Food_Ordering_Project\\Food_Ordering_Project.csproj|solutionrelative:food_ordering_project\\user\\payment.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{081DA926-BC91-453F-8E94-F1A04CE4837A}|Food_Ordering_Project\\Food_Ordering_Project.csproj|D:\\Project\\Food Ordering Website\\food_ordering_project\\user\\menu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{081DA926-BC91-453F-8E94-F1A04CE4837A}|Food_Ordering_Project\\Food_Ordering_Project.csproj|solutionrelative:food_ordering_project\\user\\menu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{081DA926-BC91-453F-8E94-F1A04CE4837A}|Food_Ordering_Project\\Food_Ordering_Project.csproj|D:\\Project\\Food Ordering Website\\food_ordering_project\\user\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{081DA926-BC91-453F-8E94-F1A04CE4837A}|Food_Ordering_Project\\Food_Ordering_Project.csproj|solutionrelative:food_ordering_project\\user\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{081DA926-BC91-453F-8E94-F1A04CE4837A}|Food_Ordering_Project\\Food_Ordering_Project.csproj|D:\\Project\\Food Ordering Website\\food_ordering_project\\user\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{081DA926-BC91-453F-8E94-F1A04CE4837A}|Food_Ordering_Project\\Food_Ordering_Project.csproj|solutionrelative:food_ordering_project\\user\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{081DA926-BC91-453F-8E94-F1A04CE4837A}|Food_Ordering_Project\\Food_Ordering_Project.csproj|D:\\Project\\Food Ordering Website\\food_ordering_project\\admin\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{081DA926-BC91-453F-8E94-F1A04CE4837A}|Food_Ordering_Project\\Food_Ordering_Project.csproj|solutionrelative:food_ordering_project\\admin\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{081DA926-BC91-453F-8E94-F1A04CE4837A}|Food_Ordering_Project\\Food_Ordering_Project.csproj|D:\\Project\\Food Ordering Website\\food_ordering_project\\user\\profile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{081DA926-BC91-453F-8E94-F1A04CE4837A}|Food_Ordering_Project\\Food_Ordering_Project.csproj|solutionrelative:food_ordering_project\\user\\profile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{081DA926-BC91-453F-8E94-F1A04CE4837A}|Food_Ordering_Project\\Food_Ordering_Project.csproj|D:\\Project\\Food Ordering Website\\food_ordering_project\\admin\\report.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{081DA926-BC91-453F-8E94-F1A04CE4837A}|Food_Ordering_Project\\Food_Ordering_Project.csproj|solutionrelative:food_ordering_project\\admin\\report.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{081DA926-BC91-453F-8E94-F1A04CE4837A}|Food_Ordering_Project\\Food_Ordering_Project.csproj|D:\\Project\\Food Ordering Website\\food_ordering_project\\user\\user.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{081DA926-BC91-453F-8E94-F1A04CE4837A}|Food_Ordering_Project\\Food_Ordering_Project.csproj|solutionrelative:food_ordering_project\\user\\user.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{081DA926-BC91-453F-8E94-F1A04CE4837A}|Food_Ordering_Project\\Food_Ordering_Project.csproj|D:\\Project\\Food Ordering Website\\food_ordering_project\\user\\cart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{081DA926-BC91-453F-8E94-F1A04CE4837A}|Food_Ordering_Project\\Food_Ordering_Project.csproj|solutionrelative:food_ordering_project\\user\\cart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{081DA926-BC91-453F-8E94-F1A04CE4837A}|Food_Ordering_Project\\Food_Ordering_Project.csproj|D:\\Project\\Food Ordering Website\\food_ordering_project\\user\\sliderusercontrol.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{081DA926-BC91-453F-8E94-F1A04CE4837A}|Food_Ordering_Project\\Food_Ordering_Project.csproj|solutionrelative:food_ordering_project\\user\\sliderusercontrol.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{081DA926-BC91-453F-8E94-F1A04CE4837A}|Food_Ordering_Project\\Food_Ordering_Project.csproj|D:\\Project\\Food Ordering Website\\food_ordering_project\\user\\invoice.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{081DA926-BC91-453F-8E94-F1A04CE4837A}|Food_Ordering_Project\\Food_Ordering_Project.csproj|solutionrelative:food_ordering_project\\user\\invoice.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{081DA926-BC91-453F-8E94-F1A04CE4837A}|Food_Ordering_Project\\Food_Ordering_Project.csproj|D:\\Project\\Food Ordering Website\\food_ordering_project\\admin\\report.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{081DA926-BC91-453F-8E94-F1A04CE4837A}|Food_Ordering_Project\\Food_Ordering_Project.csproj|solutionrelative:food_ordering_project\\admin\\report.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{081DA926-BC91-453F-8E94-F1A04CE4837A}|Food_Ordering_Project\\Food_Ordering_Project.csproj|D:\\Project\\Food Ordering Website\\food_ordering_project\\admin\\products.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{081DA926-BC91-453F-8E94-F1A04CE4837A}|Food_Ordering_Project\\Food_Ordering_Project.csproj|solutionrelative:food_ordering_project\\admin\\products.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{081DA926-BC91-453F-8E94-F1A04CE4837A}|Food_Ordering_Project\\Food_Ordering_Project.csproj|D:\\Project\\Food Ordering Website\\food_ordering_project\\admin\\admin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{081DA926-BC91-453F-8E94-F1A04CE4837A}|Food_Ordering_Project\\Food_Ordering_Project.csproj|solutionrelative:food_ordering_project\\admin\\admin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{081DA926-BC91-453F-8E94-F1A04CE4837A}|Food_Ordering_Project\\Food_Ordering_Project.csproj|D:\\Project\\Food Ordering Website\\food_ordering_project\\user\\registration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{081DA926-BC91-453F-8E94-F1A04CE4837A}|Food_Ordering_Project\\Food_Ordering_Project.csproj|solutionrelative:food_ordering_project\\user\\registration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{081DA926-BC91-453F-8E94-F1A04CE4837A}|Food_Ordering_Project\\Food_Ordering_Project.csproj|D:\\Project\\Food Ordering Website\\food_ordering_project\\user\\user.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{081DA926-BC91-453F-8E94-F1A04CE4837A}|Food_Ordering_Project\\Food_Ordering_Project.csproj|solutionrelative:food_ordering_project\\user\\user.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{081DA926-BC91-453F-8E94-F1A04CE4837A}|Food_Ordering_Project\\Food_Ordering_Project.csproj|D:\\Project\\Food Ordering Website\\food_ordering_project\\admin\\products.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{081DA926-BC91-453F-8E94-F1A04CE4837A}|Food_Ordering_Project\\Food_Ordering_Project.csproj|solutionrelative:food_ordering_project\\admin\\products.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{081DA926-BC91-453F-8E94-F1A04CE4837A}|Food_Ordering_Project\\Food_Ordering_Project.csproj|D:\\Project\\Food Ordering Website\\food_ordering_project\\admin\\users.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{081DA926-BC91-453F-8E94-F1A04CE4837A}|Food_Ordering_Project\\Food_Ordering_Project.csproj|solutionrelative:food_ordering_project\\admin\\users.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{081DA926-BC91-453F-8E94-F1A04CE4837A}|Food_Ordering_Project\\Food_Ordering_Project.csproj|D:\\Project\\Food Ordering Website\\food_ordering_project\\admin\\users.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{081DA926-BC91-453F-8E94-F1A04CE4837A}|Food_Ordering_Project\\Food_Ordering_Project.csproj|solutionrelative:food_ordering_project\\admin\\users.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{081DA926-BC91-453F-8E94-F1A04CE4837A}|Food_Ordering_Project\\Food_Ordering_Project.csproj|D:\\Project\\Food Ordering Website\\food_ordering_project\\user\\invoice.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{081DA926-BC91-453F-8E94-F1A04CE4837A}|Food_Ordering_Project\\Food_Ordering_Project.csproj|solutionrelative:food_ordering_project\\user\\invoice.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{081DA926-BC91-453F-8E94-F1A04CE4837A}|Food_Ordering_Project\\Food_Ordering_Project.csproj|D:\\Project\\Food Ordering Website\\food_ordering_project\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{081DA926-BC91-453F-8E94-F1A04CE4837A}|Food_Ordering_Project\\Food_Ordering_Project.csproj|solutionrelative:food_ordering_project\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "D:\\Project\\Food Ordering Website\\Food_Ordering_Project\\User\\Default.aspx",
+              "RelativeDocumentMoniker": "Food_Ordering_Project\\User\\Default.aspx",
+              "ToolTip": "D:\\Project\\Food Ordering Website\\Food_Ordering_Project\\User\\Default.aspx",
+              "RelativeToolTip": "Food_Ordering_Project\\User\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-10T17:39:40.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.Master",
+              "DocumentMoniker": "D:\\Project\\Food Ordering Website\\Food_Ordering_Project\\User\\User.Master",
+              "RelativeDocumentMoniker": "Food_Ordering_Project\\User\\User.Master",
+              "ToolTip": "D:\\Project\\Food Ordering Website\\Food_Ordering_Project\\User\\User.Master",
+              "RelativeToolTip": "Food_Ordering_Project\\User\\User.Master",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-10T17:39:23.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menu.aspx",
+              "DocumentMoniker": "D:\\Project\\Food Ordering Website\\Food_Ordering_Project\\User\\Menu.aspx",
+              "RelativeDocumentMoniker": "Food_Ordering_Project\\User\\Menu.aspx",
+              "ToolTip": "D:\\Project\\Food Ordering Website\\Food_Ordering_Project\\User\\Menu.aspx",
+              "RelativeToolTip": "Food_Ordering_Project\\User\\Menu.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-10T18:08:13.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Report.aspx.cs",
+              "DocumentMoniker": "D:\\Project\\Food Ordering Website\\Food_Ordering_Project\\Admin\\Report.aspx.cs",
+              "RelativeDocumentMoniker": "Food_Ordering_Project\\Admin\\Report.aspx.cs",
+              "ToolTip": "D:\\Project\\Food Ordering Website\\Food_Ordering_Project\\Admin\\Report.aspx.cs",
+              "RelativeToolTip": "Food_Ordering_Project\\Admin\\Report.aspx.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwDAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T18:24:28.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Profile.aspx",
+              "DocumentMoniker": "D:\\Project\\Food Ordering Website\\Food_Ordering_Project\\User\\Profile.aspx",
+              "RelativeDocumentMoniker": "Food_Ordering_Project\\User\\Profile.aspx",
+              "ToolTip": "D:\\Project\\Food Ordering Website\\Food_Ordering_Project\\User\\Profile.aspx",
+              "RelativeToolTip": "Food_Ordering_Project\\User\\Profile.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-10T18:10:17.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "About.aspx",
+              "DocumentMoniker": "D:\\Project\\Food Ordering Website\\Food_Ordering_Project\\User\\About.aspx",
+              "RelativeDocumentMoniker": "Food_Ordering_Project\\User\\About.aspx",
+              "ToolTip": "D:\\Project\\Food Ordering Website\\Food_Ordering_Project\\User\\About.aspx",
+              "RelativeToolTip": "Food_Ordering_Project\\User\\About.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-10T20:27:32.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Project\\Food Ordering Website\\Food_Ordering_Project\\Web.config",
+              "RelativeDocumentMoniker": "Food_Ordering_Project\\Web.config",
+              "ToolTip": "D:\\Project\\Food Ordering Website\\Food_Ordering_Project\\Web.config",
+              "RelativeToolTip": "Food_Ordering_Project\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-10T17:34:50.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dashboard.aspx",
+              "DocumentMoniker": "D:\\Project\\Food Ordering Website\\Food_Ordering_Project\\Admin\\Dashboard.aspx",
+              "RelativeDocumentMoniker": "Food_Ordering_Project\\Admin\\Dashboard.aspx",
+              "ToolTip": "D:\\Project\\Food Ordering Website\\Food_Ordering_Project\\Admin\\Dashboard.aspx",
+              "RelativeToolTip": "Food_Ordering_Project\\Admin\\Dashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-10T18:12:27.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Payment.aspx",
+              "DocumentMoniker": "D:\\Project\\Food Ordering Website\\Food_Ordering_Project\\User\\Payment.aspx",
+              "RelativeDocumentMoniker": "Food_Ordering_Project\\User\\Payment.aspx",
+              "ToolTip": "D:\\Project\\Food Ordering Website\\Food_Ordering_Project\\User\\Payment.aspx",
+              "RelativeToolTip": "Food_Ordering_Project\\User\\Payment.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-10T18:00:57.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SliderUserControl.ascx",
+              "DocumentMoniker": "D:\\Project\\Food Ordering Website\\Food_Ordering_Project\\User\\SliderUserControl.ascx",
+              "RelativeDocumentMoniker": "Food_Ordering_Project\\User\\SliderUserControl.ascx",
+              "ToolTip": "D:\\Project\\Food Ordering Website\\Food_Ordering_Project\\User\\SliderUserControl.ascx",
+              "RelativeToolTip": "Food_Ordering_Project\\User\\SliderUserControl.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-07-10T17:42:07.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Products.aspx",
+              "DocumentMoniker": "D:\\Project\\Food Ordering Website\\Food_Ordering_Project\\Admin\\Products.aspx",
+              "RelativeDocumentMoniker": "Food_Ordering_Project\\Admin\\Products.aspx",
+              "ToolTip": "D:\\Project\\Food Ordering Website\\Food_Ordering_Project\\Admin\\Products.aspx",
+              "RelativeToolTip": "Food_Ordering_Project\\Admin\\Products.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-10T17:34:24.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cart.aspx",
+              "DocumentMoniker": "D:\\Project\\Food Ordering Website\\Food_Ordering_Project\\User\\Cart.aspx",
+              "RelativeDocumentMoniker": "Food_Ordering_Project\\User\\Cart.aspx",
+              "ToolTip": "D:\\Project\\Food Ordering Website\\Food_Ordering_Project\\User\\Cart.aspx",
+              "RelativeToolTip": "Food_Ordering_Project\\User\\Cart.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-10T18:08:51.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Registration.aspx",
+              "DocumentMoniker": "D:\\Project\\Food Ordering Website\\Food_Ordering_Project\\User\\Registration.aspx",
+              "RelativeDocumentMoniker": "Food_Ordering_Project\\User\\Registration.aspx",
+              "ToolTip": "D:\\Project\\Food Ordering Website\\Food_Ordering_Project\\User\\Registration.aspx",
+              "RelativeToolTip": "Food_Ordering_Project\\User\\Registration.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-10T17:53:31.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Invoice.aspx",
+              "DocumentMoniker": "D:\\Project\\Food Ordering Website\\Food_Ordering_Project\\User\\Invoice.aspx",
+              "RelativeDocumentMoniker": "Food_Ordering_Project\\User\\Invoice.aspx",
+              "ToolTip": "D:\\Project\\Food Ordering Website\\Food_Ordering_Project\\User\\Invoice.aspx",
+              "RelativeToolTip": "Food_Ordering_Project\\User\\Invoice.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-10T18:06:26.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Report.aspx",
+              "DocumentMoniker": "D:\\Project\\Food Ordering Website\\Food_Ordering_Project\\Admin\\Report.aspx",
+              "RelativeDocumentMoniker": "Food_Ordering_Project\\Admin\\Report.aspx",
+              "ToolTip": "D:\\Project\\Food Ordering Website\\Food_Ordering_Project\\Admin\\Report.aspx",
+              "RelativeToolTip": "Food_Ordering_Project\\Admin\\Report.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-10T18:22:25.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Admin.Master",
+              "DocumentMoniker": "D:\\Project\\Food Ordering Website\\Food_Ordering_Project\\Admin\\Admin.Master",
+              "RelativeDocumentMoniker": "Food_Ordering_Project\\Admin\\Admin.Master",
+              "ToolTip": "D:\\Project\\Food Ordering Website\\Food_Ordering_Project\\Admin\\Admin.Master",
+              "RelativeToolTip": "Food_Ordering_Project\\Admin\\Admin.Master",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-10T17:34:25.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "User.Master.cs",
+              "DocumentMoniker": "D:\\Project\\Food Ordering Website\\Food_Ordering_Project\\User\\User.Master.cs",
+              "RelativeDocumentMoniker": "Food_Ordering_Project\\User\\User.Master.cs",
+              "ToolTip": "D:\\Project\\Food Ordering Website\\Food_Ordering_Project\\User\\User.Master.cs",
+              "RelativeToolTip": "Food_Ordering_Project\\User\\User.Master.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T17:41:56.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Users.aspx.cs",
+              "DocumentMoniker": "D:\\Project\\Food Ordering Website\\Food_Ordering_Project\\Admin\\Users.aspx.cs",
+              "RelativeDocumentMoniker": "Food_Ordering_Project\\Admin\\Users.aspx.cs",
+              "ToolTip": "D:\\Project\\Food Ordering Website\\Food_Ordering_Project\\Admin\\Users.aspx.cs",
+              "RelativeToolTip": "Food_Ordering_Project\\Admin\\Users.aspx.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAEsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-07-10T17:34:24.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Users.aspx",
+              "DocumentMoniker": "D:\\Project\\Food Ordering Website\\Food_Ordering_Project\\Admin\\Users.aspx",
+              "RelativeDocumentMoniker": "Food_Ordering_Project\\Admin\\Users.aspx",
+              "ToolTip": "D:\\Project\\Food Ordering Website\\Food_Ordering_Project\\Admin\\Users.aspx",
+              "RelativeToolTip": "Food_Ordering_Project\\Admin\\Users.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-07-10T17:34:24.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Invoice.aspx.cs",
+              "DocumentMoniker": "D:\\Project\\Food Ordering Website\\Food_Ordering_Project\\User\\Invoice.aspx.cs",
+              "RelativeDocumentMoniker": "Food_Ordering_Project\\User\\Invoice.aspx.cs",
+              "ToolTip": "D:\\Project\\Food Ordering Website\\Food_Ordering_Project\\User\\Invoice.aspx.cs",
+              "RelativeToolTip": "Food_Ordering_Project\\User\\Invoice.aspx.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAIwC4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-07-10T17:34:24.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "D:\\Project\\Food Ordering Website\\Food_Ordering_Project\\Connection.cs",
+              "RelativeDocumentMoniker": "Food_Ordering_Project\\Connection.cs",
+              "ToolTip": "D:\\Project\\Food Ordering Website\\Food_Ordering_Project\\Connection.cs",
+              "RelativeToolTip": "Food_Ordering_Project\\Connection.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAMwIAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T17:34:24.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Products.aspx.cs",
+              "DocumentMoniker": "D:\\Project\\Food Ordering Website\\Food_Ordering_Project\\Admin\\Products.aspx.cs",
+              "RelativeDocumentMoniker": "Food_Ordering_Project\\Admin\\Products.aspx.cs",
+              "ToolTip": "D:\\Project\\Food Ordering Website\\Food_Ordering_Project\\Admin\\Products.aspx.cs",
+              "RelativeToolTip": "Food_Ordering_Project\\Admin\\Products.aspx.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAwwH0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T17:34:24.872Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

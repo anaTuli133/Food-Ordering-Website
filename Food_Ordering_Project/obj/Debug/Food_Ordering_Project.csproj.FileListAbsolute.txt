@@ -1,0 +1,171 @@
+D:\Own Projects\Visual Studio Projects\Food_Ordering_Project\Food_Ordering_Project\bin\Food_Ordering_Project.dll.config
+D:\Own Projects\Visual Studio Projects\Food_Ordering_Project\Food_Ordering_Project\bin\Food_Ordering_Project.dll
+D:\Own Projects\Visual Studio Projects\Food_Ordering_Project\Food_Ordering_Project\bin\Food_Ordering_Project.pdb
+D:\Own Projects\Visual Studio Projects\Food_Ordering_Project\Food_Ordering_Project\bin\roslyn\csc.exe
+D:\Own Projects\Visual Studio Projects\Food_Ordering_Project\Food_Ordering_Project\bin\roslyn\csc.exe.config
+D:\Own Projects\Visual Studio Projects\Food_Ordering_Project\Food_Ordering_Project\bin\roslyn\csc.rsp
+D:\Own Projects\Visual Studio Projects\Food_Ordering_Project\Food_Ordering_Project\bin\roslyn\csi.exe
+D:\Own Projects\Visual Studio Projects\Food_Ordering_Project\Food_Ordering_Project\bin\roslyn\csi.exe.config
+D:\Own Projects\Visual Studio Projects\Food_Ordering_Project\Food_Ordering_Project\bin\roslyn\csi.rsp
+D:\Own Projects\Visual Studio Projects\Food_Ordering_Project\Food_Ordering_Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Own Projects\Visual Studio Projects\Food_Ordering_Project\Food_Ordering_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Own Projects\Visual Studio Projects\Food_Ordering_Project\Food_Ordering_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Own Projects\Visual Studio Projects\Food_Ordering_Project\Food_Ordering_Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Own Projects\Visual Studio Projects\Food_Ordering_Project\Food_Ordering_Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Own Projects\Visual Studio Projects\Food_Ordering_Project\Food_Ordering_Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Own Projects\Visual Studio Projects\Food_Ordering_Project\Food_Ordering_Project\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Own Projects\Visual Studio Projects\Food_Ordering_Project\Food_Ordering_Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Own Projects\Visual Studio Projects\Food_Ordering_Project\Food_Ordering_Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Own Projects\Visual Studio Projects\Food_Ordering_Project\Food_Ordering_Project\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Own Projects\Visual Studio Projects\Food_Ordering_Project\Food_Ordering_Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Own Projects\Visual Studio Projects\Food_Ordering_Project\Food_Ordering_Project\bin\roslyn\System.AppContext.dll
+D:\Own Projects\Visual Studio Projects\Food_Ordering_Project\Food_Ordering_Project\bin\roslyn\System.Collections.Immutable.dll
+D:\Own Projects\Visual Studio Projects\Food_Ordering_Project\Food_Ordering_Project\bin\roslyn\System.Console.dll
+D:\Own Projects\Visual Studio Projects\Food_Ordering_Project\Food_Ordering_Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Own Projects\Visual Studio Projects\Food_Ordering_Project\Food_Ordering_Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Own Projects\Visual Studio Projects\Food_Ordering_Project\Food_Ordering_Project\bin\roslyn\System.IO.Compression.dll
+D:\Own Projects\Visual Studio Projects\Food_Ordering_Project\Food_Ordering_Project\bin\roslyn\System.IO.FileSystem.dll
+D:\Own Projects\Visual Studio Projects\Food_Ordering_Project\Food_Ordering_Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Own Projects\Visual Studio Projects\Food_Ordering_Project\Food_Ordering_Project\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Own Projects\Visual Studio Projects\Food_Ordering_Project\Food_Ordering_Project\bin\roslyn\System.IO.Pipes.dll
+D:\Own Projects\Visual Studio Projects\Food_Ordering_Project\Food_Ordering_Project\bin\roslyn\System.Reflection.Metadata.dll
+D:\Own Projects\Visual Studio Projects\Food_Ordering_Project\Food_Ordering_Project\bin\roslyn\System.Security.AccessControl.dll
+D:\Own Projects\Visual Studio Projects\Food_Ordering_Project\Food_Ordering_Project\bin\roslyn\System.Security.Claims.dll
+D:\Own Projects\Visual Studio Projects\Food_Ordering_Project\Food_Ordering_Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Own Projects\Visual Studio Projects\Food_Ordering_Project\Food_Ordering_Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Own Projects\Visual Studio Projects\Food_Ordering_Project\Food_Ordering_Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Own Projects\Visual Studio Projects\Food_Ordering_Project\Food_Ordering_Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Own Projects\Visual Studio Projects\Food_Ordering_Project\Food_Ordering_Project\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Own Projects\Visual Studio Projects\Food_Ordering_Project\Food_Ordering_Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Own Projects\Visual Studio Projects\Food_Ordering_Project\Food_Ordering_Project\bin\roslyn\System.ValueTuple.dll
+D:\Own Projects\Visual Studio Projects\Food_Ordering_Project\Food_Ordering_Project\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Own Projects\Visual Studio Projects\Food_Ordering_Project\Food_Ordering_Project\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Own Projects\Visual Studio Projects\Food_Ordering_Project\Food_Ordering_Project\bin\roslyn\System.Xml.XPath.dll
+D:\Own Projects\Visual Studio Projects\Food_Ordering_Project\Food_Ordering_Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Own Projects\Visual Studio Projects\Food_Ordering_Project\Food_Ordering_Project\bin\roslyn\vbc.exe
+D:\Own Projects\Visual Studio Projects\Food_Ordering_Project\Food_Ordering_Project\bin\roslyn\vbc.exe.config
+D:\Own Projects\Visual Studio Projects\Food_Ordering_Project\Food_Ordering_Project\bin\roslyn\vbc.rsp
+D:\Own Projects\Visual Studio Projects\Food_Ordering_Project\Food_Ordering_Project\bin\roslyn\VBCSCompiler.exe
+D:\Own Projects\Visual Studio Projects\Food_Ordering_Project\Food_Ordering_Project\bin\roslyn\VBCSCompiler.exe.config
+D:\Own Projects\Visual Studio Projects\Food_Ordering_Project\Food_Ordering_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Own Projects\Visual Studio Projects\Food_Ordering_Project\Food_Ordering_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Own Projects\Visual Studio Projects\Food_Ordering_Project\Food_Ordering_Project\obj\Debug\Food_Ordering_Project.csproj.CoreCompileInputs.cache
+D:\Own Projects\Visual Studio Projects\Food_Ordering_Project\Food_Ordering_Project\obj\Debug\Food_Ordering_Project.csproj.CopyComplete
+D:\Own Projects\Visual Studio Projects\Food_Ordering_Project\Food_Ordering_Project\obj\Debug\Food_Ordering_Project.dll
+D:\Own Projects\Visual Studio Projects\Food_Ordering_Project\Food_Ordering_Project\obj\Debug\Food_Ordering_Project.pdb
+D:\Own Projects\Visual Studio Projects\Food_Ordering_Project\Food_Ordering_Project\bin\itextsharp.dll
+D:\Own Projects\Visual Studio Projects\Food_Ordering_Project\Food_Ordering_Project\obj\Debug\Food_Ordering_Project.csproj.AssemblyReference.cache
+D:\Project\Food Ordering with SP\Food_Ordering_Project\bin\Food_Ordering_Project.dll.config
+D:\Project\Food Ordering with SP\Food_Ordering_Project\bin\Food_Ordering_Project.dll
+D:\Project\Food Ordering with SP\Food_Ordering_Project\bin\Food_Ordering_Project.pdb
+D:\Project\Food Ordering with SP\Food_Ordering_Project\bin\roslyn\csc.exe
+D:\Project\Food Ordering with SP\Food_Ordering_Project\bin\roslyn\csc.exe.config
+D:\Project\Food Ordering with SP\Food_Ordering_Project\bin\roslyn\csc.rsp
+D:\Project\Food Ordering with SP\Food_Ordering_Project\bin\roslyn\csi.exe
+D:\Project\Food Ordering with SP\Food_Ordering_Project\bin\roslyn\csi.exe.config
+D:\Project\Food Ordering with SP\Food_Ordering_Project\bin\roslyn\csi.rsp
+D:\Project\Food Ordering with SP\Food_Ordering_Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Project\Food Ordering with SP\Food_Ordering_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Project\Food Ordering with SP\Food_Ordering_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Project\Food Ordering with SP\Food_Ordering_Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Project\Food Ordering with SP\Food_Ordering_Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Project\Food Ordering with SP\Food_Ordering_Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Project\Food Ordering with SP\Food_Ordering_Project\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Project\Food Ordering with SP\Food_Ordering_Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Project\Food Ordering with SP\Food_Ordering_Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Project\Food Ordering with SP\Food_Ordering_Project\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Project\Food Ordering with SP\Food_Ordering_Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Project\Food Ordering with SP\Food_Ordering_Project\bin\roslyn\System.AppContext.dll
+D:\Project\Food Ordering with SP\Food_Ordering_Project\bin\roslyn\System.Collections.Immutable.dll
+D:\Project\Food Ordering with SP\Food_Ordering_Project\bin\roslyn\System.Console.dll
+D:\Project\Food Ordering with SP\Food_Ordering_Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Project\Food Ordering with SP\Food_Ordering_Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Project\Food Ordering with SP\Food_Ordering_Project\bin\roslyn\System.IO.Compression.dll
+D:\Project\Food Ordering with SP\Food_Ordering_Project\bin\roslyn\System.IO.FileSystem.dll
+D:\Project\Food Ordering with SP\Food_Ordering_Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Project\Food Ordering with SP\Food_Ordering_Project\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Project\Food Ordering with SP\Food_Ordering_Project\bin\roslyn\System.IO.Pipes.dll
+D:\Project\Food Ordering with SP\Food_Ordering_Project\bin\roslyn\System.Reflection.Metadata.dll
+D:\Project\Food Ordering with SP\Food_Ordering_Project\bin\roslyn\System.Security.AccessControl.dll
+D:\Project\Food Ordering with SP\Food_Ordering_Project\bin\roslyn\System.Security.Claims.dll
+D:\Project\Food Ordering with SP\Food_Ordering_Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Project\Food Ordering with SP\Food_Ordering_Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Project\Food Ordering with SP\Food_Ordering_Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Project\Food Ordering with SP\Food_Ordering_Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Project\Food Ordering with SP\Food_Ordering_Project\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Project\Food Ordering with SP\Food_Ordering_Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Project\Food Ordering with SP\Food_Ordering_Project\bin\roslyn\System.ValueTuple.dll
+D:\Project\Food Ordering with SP\Food_Ordering_Project\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Project\Food Ordering with SP\Food_Ordering_Project\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Project\Food Ordering with SP\Food_Ordering_Project\bin\roslyn\System.Xml.XPath.dll
+D:\Project\Food Ordering with SP\Food_Ordering_Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Project\Food Ordering with SP\Food_Ordering_Project\bin\roslyn\vbc.exe
+D:\Project\Food Ordering with SP\Food_Ordering_Project\bin\roslyn\vbc.exe.config
+D:\Project\Food Ordering with SP\Food_Ordering_Project\bin\roslyn\vbc.rsp
+D:\Project\Food Ordering with SP\Food_Ordering_Project\bin\roslyn\VBCSCompiler.exe
+D:\Project\Food Ordering with SP\Food_Ordering_Project\bin\roslyn\VBCSCompiler.exe.config
+D:\Project\Food Ordering with SP\Food_Ordering_Project\bin\itextsharp.dll
+D:\Project\Food Ordering with SP\Food_Ordering_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Project\Food Ordering with SP\Food_Ordering_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Project\Food Ordering with SP\Food_Ordering_Project\obj\Debug\Food_Ordering_Project.csproj.AssemblyReference.cache
+D:\Project\Food Ordering with SP\Food_Ordering_Project\obj\Debug\Food_Ordering_Project.csproj.CoreCompileInputs.cache
+D:\Project\Food Ordering with SP\Food_Ordering_Project\obj\Debug\Food_Ord.09D2064B.Up2Date
+D:\Project\Food Ordering with SP\Food_Ordering_Project\obj\Debug\Food_Ordering_Project.dll
+D:\Project\Food Ordering with SP\Food_Ordering_Project\obj\Debug\Food_Ordering_Project.pdb
+D:\Project\Food Ordering Website\Food_Ordering_Project\bin\Food_Ordering_Project.dll.config
+D:\Project\Food Ordering Website\Food_Ordering_Project\bin\Food_Ordering_Project.dll
+D:\Project\Food Ordering Website\Food_Ordering_Project\bin\Food_Ordering_Project.pdb
+D:\Project\Food Ordering Website\Food_Ordering_Project\bin\roslyn\csc.exe
+D:\Project\Food Ordering Website\Food_Ordering_Project\bin\roslyn\csc.exe.config
+D:\Project\Food Ordering Website\Food_Ordering_Project\bin\roslyn\csc.rsp
+D:\Project\Food Ordering Website\Food_Ordering_Project\bin\roslyn\csi.exe
+D:\Project\Food Ordering Website\Food_Ordering_Project\bin\roslyn\csi.exe.config
+D:\Project\Food Ordering Website\Food_Ordering_Project\bin\roslyn\csi.rsp
+D:\Project\Food Ordering Website\Food_Ordering_Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Project\Food Ordering Website\Food_Ordering_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Project\Food Ordering Website\Food_Ordering_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Project\Food Ordering Website\Food_Ordering_Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Project\Food Ordering Website\Food_Ordering_Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Project\Food Ordering Website\Food_Ordering_Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Project\Food Ordering Website\Food_Ordering_Project\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Project\Food Ordering Website\Food_Ordering_Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Project\Food Ordering Website\Food_Ordering_Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Project\Food Ordering Website\Food_Ordering_Project\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Project\Food Ordering Website\Food_Ordering_Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Project\Food Ordering Website\Food_Ordering_Project\bin\roslyn\System.AppContext.dll
+D:\Project\Food Ordering Website\Food_Ordering_Project\bin\roslyn\System.Collections.Immutable.dll
+D:\Project\Food Ordering Website\Food_Ordering_Project\bin\roslyn\System.Console.dll
+D:\Project\Food Ordering Website\Food_Ordering_Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Project\Food Ordering Website\Food_Ordering_Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Project\Food Ordering Website\Food_Ordering_Project\bin\roslyn\System.IO.Compression.dll
+D:\Project\Food Ordering Website\Food_Ordering_Project\bin\roslyn\System.IO.FileSystem.dll
+D:\Project\Food Ordering Website\Food_Ordering_Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Project\Food Ordering Website\Food_Ordering_Project\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Project\Food Ordering Website\Food_Ordering_Project\bin\roslyn\System.IO.Pipes.dll
+D:\Project\Food Ordering Website\Food_Ordering_Project\bin\roslyn\System.Reflection.Metadata.dll
+D:\Project\Food Ordering Website\Food_Ordering_Project\bin\roslyn\System.Security.AccessControl.dll
+D:\Project\Food Ordering Website\Food_Ordering_Project\bin\roslyn\System.Security.Claims.dll
+D:\Project\Food Ordering Website\Food_Ordering_Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Project\Food Ordering Website\Food_Ordering_Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Project\Food Ordering Website\Food_Ordering_Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Project\Food Ordering Website\Food_Ordering_Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Project\Food Ordering Website\Food_Ordering_Project\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Project\Food Ordering Website\Food_Ordering_Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Project\Food Ordering Website\Food_Ordering_Project\bin\roslyn\System.ValueTuple.dll
+D:\Project\Food Ordering Website\Food_Ordering_Project\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Project\Food Ordering Website\Food_Ordering_Project\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Project\Food Ordering Website\Food_Ordering_Project\bin\roslyn\System.Xml.XPath.dll
+D:\Project\Food Ordering Website\Food_Ordering_Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Project\Food Ordering Website\Food_Ordering_Project\bin\roslyn\vbc.exe
+D:\Project\Food Ordering Website\Food_Ordering_Project\bin\roslyn\vbc.exe.config
+D:\Project\Food Ordering Website\Food_Ordering_Project\bin\roslyn\vbc.rsp
+D:\Project\Food Ordering Website\Food_Ordering_Project\bin\roslyn\VBCSCompiler.exe
+D:\Project\Food Ordering Website\Food_Ordering_Project\bin\roslyn\VBCSCompiler.exe.config
+D:\Project\Food Ordering Website\Food_Ordering_Project\bin\itextsharp.dll
+D:\Project\Food Ordering Website\Food_Ordering_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Project\Food Ordering Website\Food_Ordering_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Project\Food Ordering Website\Food_Ordering_Project\obj\Debug\Food_Ordering_Project.csproj.AssemblyReference.cache
+D:\Project\Food Ordering Website\Food_Ordering_Project\obj\Debug\Food_Ordering_Project.csproj.CoreCompileInputs.cache
+D:\Project\Food Ordering Website\Food_Ordering_Project\obj\Debug\Food_Ord.09D2064B.Up2Date
+D:\Project\Food Ordering Website\Food_Ordering_Project\obj\Debug\Food_Ordering_Project.dll
+D:\Project\Food Ordering Website\Food_Ordering_Project\obj\Debug\Food_Ordering_Project.pdb

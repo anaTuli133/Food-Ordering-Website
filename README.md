@@ -1,6 +1,6 @@
-# 🍔 FoodBazar
+# 🍔 Foodie
 
-FoodBazar is a web-based food ordering and management system developed using **ASP.NET**. The project is designed to provide a simple and efficient platform where users can browse food items, place orders, and manage food-related activities digitally. It is suitable for academic projects as well as a foundation for real-world food delivery applications.
+Foodie is a web-based food ordering and management system developed using **ASP.NET**. The project is designed to provide a simple and efficient platform where users can browse food items, place orders, and manage food-related activities digitally. It is suitable for academic projects as well as a foundation for real-world food delivery applications.
 
 ---
 
@@ -55,7 +55,7 @@ Follow the steps below to run the project locally:
 
 2. **Open the project**
 
-   * Open `FoodBazar.sln` using **Visual Studio**
+   * Open `Foodie.sln` using **Visual Studio**
 
 3. **Restore dependencies**
 

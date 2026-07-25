@@ -1,5 +1,5 @@
-##Course: Software Development - V
-**Semester: 3.2**
+##Course: Software Development - V 
+#Semester: 3.2**
 # 🍔 Foodie
 
 Foodie is a web-based food ordering and management system developed using **ASP.NET**. The project is designed to provide a simple and efficient platform where users can browse food items, place orders, and manage food-related activities digitally. It is suitable for academic projects as well as a foundation for real-world food delivery applications.

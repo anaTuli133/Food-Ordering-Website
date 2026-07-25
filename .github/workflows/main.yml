@@ -18,3 +18,4 @@ jobs:
           username: site81378
           password: ${{ secrets.FTP_PASSWORD }}
           local-dir: ./Food_Ordering_Project/obj/Release/Package/PackageTmp/
+          server-dir: /wwwroot/

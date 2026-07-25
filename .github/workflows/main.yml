@@ -9,15 +9,12 @@ jobs:
         uses: microsoft/setup-msbuild@v2
       - name: Restore NuGet packages
         run: nuget restore Food_Ordering_Project.sln
-      - name: Build and Publish
-        run: msbuild Food_Ordering_Project\Food_Ordering_Project.csproj /p:Configuration=Release /p:DeployOnBuild=true /p:WebPublishMethod=FileSystem /p:publishUrl="${{ github.workspace }}\publish"
-      - name: List publish folder
-        run: dir "${{ github.workspace }}\publish"
-        shell: cmd
+      - name: Build
+        run: msbuild Food_Ordering_Project.sln /p:Configuration=Release /p:DeployOnBuild=true /p:WebPublishMethod=Package /p:PackageAsSingleFile=true /p:PackageLocation="./publish"
       - name: Deploy via FTP
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
           server: site81378.siteasp.net
           username: site81378
           password: ${{ secrets.FTP_PASSWORD }}
-          local-dir: ${{ github.workspace }}\publish\
+          local-dir: ./Food_Ordering_Project/obj/Release/Package/PackageTmp/

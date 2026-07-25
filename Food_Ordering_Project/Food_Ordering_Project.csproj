@@ -209,7 +209,7 @@
     <Content Include="TemplateFiles\css\style.css" />
     <Content Include="TemplateFiles\images\about-img.png" />
     <Content Include="TemplateFiles\images\client1.jpg" />
-    <Content Include="TemplateFiles\images\client2.jpg" />
+    <Content Include="TemplateFiles\images\client2.png" />
     <Content Include="TemplateFiles\images\f1.png" />
     <Content Include="TemplateFiles\images\f2.png" />
     <Content Include="TemplateFiles\images\f3.png" />

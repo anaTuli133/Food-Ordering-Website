@@ -11,10 +11,14 @@ jobs:
         run: nuget restore Food_Ordering_Project.sln
       - name: Build
         run: msbuild Food_Ordering_Project.sln /p:Configuration=Release /p:DeployOnBuild=true /p:WebPublishMethod=Package /p:PackageAsSingleFile=true /p:PackageLocation="./publish"
-      - name: Deploy via WebDeploy
-        uses: rasmusbuchholdt/simply-web-deploy@2.1.0
+      - name: Extract package
+        run: |
+          Expand-Archive -Path "./publish/Food_Ordering_Project.zip" -DestinationPath "./publish/extracted"
+        shell: pwsh
+      - name: Deploy via FTP
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
-          website-name: ${{ secrets.WEBSITE_NAME }}
-          server-computer-name: ${{ secrets.SERVER_COMPUTER_NAME }}
-          server-username: ${{ secrets.SERVER_USERNAME }}
-          server-password: ${{ secrets.SERVER_PASSWORD }}
+          server: site81378.siteasp.net
+          username: site81378
+          password: ${{ secrets.FTP_PASSWORD }}
+          local-dir: ./publish/extracted/Content/D_C/a/Food-Ordering-Website/Food-Ordering-Website/Food_Ordering_Project/obj/Release/Package/PackageTmp/

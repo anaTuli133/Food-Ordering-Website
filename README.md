@@ -32,7 +32,7 @@ password: 123
 ## 📂 Project Structure (Overview)
 
 ```
-FoodBazar/
+Foodie
 │
 ├── Controllers/        # Handles request logic
 ├── Models/             # Data models

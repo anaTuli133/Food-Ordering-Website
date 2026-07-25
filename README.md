@@ -25,6 +25,9 @@ Foodie is a web-based food ordering and management system developed using **ASP.
 * **MSBuild** project structure
 
 ---
+username: Admin
+password: 123
+---
 
 ## 📂 Project Structure (Overview)
 
@@ -35,7 +38,7 @@ FoodBazar/
 ├── Models/             # Data models
 ├── Views/              # UI pages
 ├── wwwroot/            # Static files (CSS, JS, images)
-├── FoodBazar.csproj    # Project configuration
+├── Foodie.csproj       # Project configuration
 └── README.md           # Project documentation
 ```
 
@@ -109,8 +112,8 @@ Follow the steps below to run the project locally:
 
 ## 👩‍💻 Author
 
-**Fabbiha Tahsin Prova**
 **Anamika Saha**
+**Fabbiha Tahsin Prova**
 Department of Computer Science & Engineering
 
 ---

@@ -45,20 +45,26 @@ FoodBazar/
 **Dashboard**
 ![Dashboard](./interface/dashboard.png)
 
-**Category**
+**Our Category**
 ![Category- Dashboard](./interface/our_category.png)
 
+**About**
+![About](./interface/about.png)
+
+**Contact**
+![Contact](./interface/Contact.png)
+
 **Registration**
-![Category](./interface/regestration.png)
+![registration](./interface/regestration.png)
 
 **Login**
 ![Login](./interface/login.png)
 
-**Menu**
-![Menu](./interface/menu.png)
-
 **User**
 ![User](./interface/user.png)
+
+**Menu**
+![Menu](./interface/menu.png)
 
 **Shopping Cart**
 ![Shopping Cart](./interface/shopping-cart.png)
@@ -69,14 +75,28 @@ FoodBazar/
 **Invoice**
 ![Invoice](./interface/invoice.png)
 
-**Admin Dashboard**
+**Admin-Dashboard**
 ![Admin Dashboard](./interface/admin-dash.png)
 
-**Category-Admin**
+**Admin- Category**
 ![Category-Admin](./interface/category.png)
 
-**Status**
+**Admin- Product**
+![Admin- Product](./interface/product.png)
+
+**Update Status**
 ![Status](./interface/status.png)
+
+**Admin- Users**
+![Admin- Users](./interface/users.png)
+
+**Contact**
+![Contact](./interface/Contact.png)
+
+**Selling Report**
+![selling-report](./interface/selling-report.png)
+
+
 ---
 
 ## ⚙️ Setup & Installation

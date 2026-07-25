@@ -41,6 +41,10 @@ FoodBazar/
 ├── Foodie.csproj       # Project configuration
 └── README.md           # Project documentation
 ```
+## UI Interface
+
+**Login**
+
 
 *(Structure may vary depending on implementation)*
 

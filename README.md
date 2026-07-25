@@ -25,7 +25,7 @@ Foodie is a web-based food ordering and management system developed using **ASP.
 * **MSBuild** project structure
 
 ---
-username: Admin
+username: Admin ||
 password: 123
 ---
 
@@ -42,12 +42,41 @@ FoodBazar/
 └── README.md           # Project documentation
 ```
 ## UI Interface
+**Dashboard**
+![Dashboard](./interface/dashboard.png)
+
+**Category**
+![Category- Dashboard](./interface/our_category.png)
+
+**Registration**
+![Category](./interface/regestration.png)
 
 **Login**
+![Login](./interface/login.png)
 
+**Menu**
+![Menu](./interface/menu.png)
 
-*(Structure may vary depending on implementation)*
+**User**
+![User](./interface/user.png)
 
+**Shopping Cart**
+![Shopping Cart](./interface/shopping-cart.png)
+
+**Payment**
+![Payment](./interface/payment.png)
+
+**Invoice**
+![Invoice](./interface/invoice.png)
+
+**Admin**
+![Admin Dashboard](./interface/admin-dash.png)
+
+**Category-Admin**
+![Category-Admin](./interface/category.png)
+
+**Status**
+![Status](./interface/status.png)
 ---
 
 ## ⚙️ Setup & Installation

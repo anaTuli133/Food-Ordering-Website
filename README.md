@@ -69,7 +69,7 @@ FoodBazar/
 **Invoice**
 ![Invoice](./interface/invoice.png)
 
-**Admin**
+**Admin Dashboard**
 ![Admin Dashboard](./interface/admin-dash.png)
 
 **Category-Admin**

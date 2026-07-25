@@ -168,7 +168,8 @@ Follow the steps below to run the project locally:
 
 ## 👩‍💻 Author
 
-**Anamika Saha** |
+### Anamika Saha
+### Fabbiha Tahsin Prova
 Department of Computer Science & Engineering
 
 ---

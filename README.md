@@ -48,7 +48,7 @@ Foodie
 **Dashboard**
 ![Dashboard](./interface/dashboard.png)
 
-**Our Category**
+**Our Categories**
 ![Category- Dashboard](./interface/User_Category.png)
 
 **About**

@@ -188,12 +188,12 @@ Thank you for choosing Foodie. We hope to delight your taste buds and make every
                         <div class="box">
                             <div class="detail-box">
                                 <p>
-                                    The food here is absolutely delicious! Every dish we tried was bursting with flavor and cooked to perfection. Highly recommend the Zumbo Burger and Chicken Cheese Pizza.
+                                    The food here is absolutely delicious! Every dish we tried was bursting with flavor and cooked to perfection. Highly recommend the Chicken Cheese Burger and Chicken Cheese Pizza.
                                 </p>
-                                <h6>Moana Michell
+                                <h6>Anamika Saha
                                 </h6>
                                 <p>
-                                    Banani, Dhaka
+                                    Shantinagar, Dhaka
                                 </p>
                             </div>
                             <div class="img-box">
@@ -205,12 +205,12 @@ Thank you for choosing Foodie. We hope to delight your taste buds and make every
                         <div class="box">
                             <div class="detail-box">
                                 <p>
-                                   If you’re a foodie like me, you’ll love this place! The menu has a fantastic selection of dishes, and we loved everything we tried. We only had good comments about the food. I can’t wait to come back again!
+                                   If you are a foodie like me, you will love this place! The menu has a fantastic selection of dishes, and we loved everything we tried. We only had good comments about the food. I can not wait to come back again!
                                 </p>
-                                <h6>Mike Hamell
+                                <h6>Fabbiha Tahsin Prova
                                 </h6>
                                 <p>
-                                    Uttora, Dhaka
+                                    Dhanmondi, Dhaka
                                 </p>
                             </div>
                             <div class="img-box">

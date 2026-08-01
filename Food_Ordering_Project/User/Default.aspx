@@ -197,7 +197,7 @@ Thank you for choosing Foodie. We hope to delight your taste buds and make every
                                 </p>
                             </div>
                             <div class="img-box">
-                                <img src="../TemplateFiles/images/client1.jpeg" alt="" class="box-img">
+                                <img src="../TemplateFiles/images/client1.jpg" alt="" class="box-img">
                             </div>
                         </div>
                     </div>

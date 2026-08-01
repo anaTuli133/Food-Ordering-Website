@@ -166,7 +166,7 @@ Follow the steps below to run the project locally:
 
 ---
 
-## 👩‍💻 Author
+## 👩‍💻 Authors
 
 ### Anamika Saha
 ### Fabbiha Tahsin Prova
